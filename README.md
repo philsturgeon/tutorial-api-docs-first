@@ -187,5 +187,3 @@ Now we've got descriptions on our fields, and added a bunch more. Most of them s
 You can learn more about the "Attributes" keyword in the [API Blueprint Spec](https://github.com/apiaryio/api-blueprint/blob/master/API%20Blueprint%20Specification.md#def-attributes-section), and by reading more about the [MSON syntax](https://github.com/apiaryio/mson/blob/master/MSON%20Specification.md) specifically.
 
 ## Requests
-
-## Mock Server
